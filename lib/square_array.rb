@@ -5,7 +5,6 @@ def square_array(array)
   while array[index] do 
     numbers.push(array[index]*array[index])
     index +=1
+    
   end
-  numbers
 end
-p square_array(nil)

@@ -1,13 +1,10 @@
 
 def square_array(array)
-  new_array=[]
-  index=0 
-  while array[index] {
-    new_array.push(array[index]*array[index])
-    index+ = 1
-  }
-p new_array
+  numbers = []
+  index = 0
+  while array[index] do 
+    numbers.push(array[index]*array[index])
+    index +=1
+  end
+  numbers
 end
-
-
-

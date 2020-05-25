@@ -1,4 +1,4 @@
-array = [1,2,3]
+numbers = [1,2,3]
 def square_array(array)
   numbers = []
   index = 0
@@ -8,4 +8,3 @@ def square_array(array)
   end
  p numbers
 end
-p square_array(nil)

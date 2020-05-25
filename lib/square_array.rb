@@ -6,5 +6,5 @@ def square_array(array)
     numbers.push(array[index]*array[index])
     index +=1
   end
-  numbers
+  p numbers
 end
